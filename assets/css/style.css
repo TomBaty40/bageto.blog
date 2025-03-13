@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p {
+  color: #7a1880;
+}
